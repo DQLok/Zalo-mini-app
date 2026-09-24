@@ -21,8 +21,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 ### 1. Random Picker - LokDQ
 * **Mô tả:** Ứng dụng giúp quay số ngẫu nhiên, bốc thăm trúng thưởng hoặc đưa ra quyết định nhanh chóng cho các trò chơi, sự kiện.
 * **App ID:** `1516033360579317275`
-* **QR Code:** 
-  > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
+* **QR Code:**
   > ![Random Picker QR](assets/random-picker-lokdq.jpg)
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/1516033360579317275)
 
@@ -31,8 +30,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 ### 2. Daily Food - LokDQ
 * **Mô tả:** Giải quyết câu hỏi kinh điển "Hôm nay ăn gì?". Gợi ý món ăn mỗi ngày, giúp bạn lên thực đơn hoặc chọn món một cách vui vẻ.
 * **App ID:** `367545130607154173`
-* **QR Code:** 
-  > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
+* **QR Code:**
   > ![Daily Food QR](assets/daily-food-lokdq.jpg))
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/367545130607154173)
 
@@ -41,8 +39,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 ### 3. WePlan - LokDQ
 * **Mô tả:** Ứng dụng hỗ trợ lên kế hoạch, sắp xếp công việc và lịch trình cá nhân hoặc nhóm một cách khoa học.
 * **App ID:** `1599413094155518304`
-* **QR Code:** 
-  > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
+* **QR Code:**
   > ![WePlan QR](assets/weplan-lokdq.jpg))
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/1599413094155518304)
 

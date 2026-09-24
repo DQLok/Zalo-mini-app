@@ -23,7 +23,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 * **App ID:** `1516033360579317275`
 * **QR Code:** 
   > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
-  > ![Random Picker QR](path/to/random-picker-qr.png)
+  > ![Random Picker QR](assets/random-picker-lokdq.jpg)
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/1516033360579317275)
 
 ---
@@ -33,7 +33,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 * **App ID:** `367545130607154173`
 * **QR Code:** 
   > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
-  > ![Daily Food QR](path/to/daily-food-qr.png)
+  > ![Daily Food QR](assets/daily-food-lokdq.jpg))
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/367545130607154173)
 
 ---
@@ -43,7 +43,7 @@ Bạn có thể mở ứng dụng bằng cách quét mã QR tương ứng bên d
 * **App ID:** `1599413094155518304`
 * **QR Code:** 
   > *(Thay thế link ảnh bên dưới bằng QR code thực tế của bạn)*
-  > ![WePlan QR](path/to/weplan-qr.png)
+  > ![WePlan QR](assets/weplan-lokdq.jpg))
 * **Link truy cập:** [Mở trên Zalo Mini App](https://zalo.me/s/1599413094155518304)
 
 ---

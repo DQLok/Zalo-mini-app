@@ -1,0 +1,23 @@
+{
+  "defaultBackground": "https://raw.githubusercontent.com///main/assets/bg-default.jpg",
+  "events": [
+    {
+      "name": "Halloween 2026",
+      "startDate": "25-10",
+      "endDate": "31-10",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-halloween.jpg"
+    },
+    {
+      "name": "Giáng Sinh 2026",
+      "startDate": "20-12",
+      "endDate": "25-12",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-christmas.jpg"
+    },
+    {
+      "name": "Tết Nguyên Đán 2027",
+      "startDate": "01-02",
+      "endDate": "10-02",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-tet.jpg"
+    }
+  ]
+}

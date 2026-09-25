@@ -1,26 +1,26 @@
 {
-  "defaultBackground": "https://raw.githubusercontent.com///main/assets/bg-default.jpg",
+  "defaultBackground": "https://raw.githubusercontent.com///main/assets/background/bg-default.jpg",
   "enable": false,
   "events": [
     {
       "name": "Halloween 2026",
       "startDate": "25-10",
       "endDate": "31-10",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-halloween.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-halloween.jpg",
       "enable": true,
     },
     {
       "name": "Giáng Sinh 2026",
       "startDate": "20-12",
       "endDate": "25-12",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-christmas.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-christmas.jpg",
       "enable": true,
     },
     {
       "name": "Tết Nguyên Đán 2027",
       "startDate": "01-02",
       "endDate": "10-02",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/bg-tet.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-tet.jpg",
       "enable": true,
     }
   ]

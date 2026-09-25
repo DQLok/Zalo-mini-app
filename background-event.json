@@ -3,24 +3,31 @@
   "enable": false,
   "events": [
     {
-      "name": "Halloween 2026",
+      "name": "Trung thu",
+      "startDate": "24-09",
+      "endDate": "25-09",
+      "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-trungthu.jpg",
+      "enable": true,
+    },
+    {
+      "name": "Halloween",
       "startDate": "25-10",
       "endDate": "31-10",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-halloween.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-halloween.jpg",
       "enable": true,
     },
     {
-      "name": "Giáng Sinh 2026",
+      "name": "Giáng Sinh",
       "startDate": "20-12",
       "endDate": "25-12",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-christmas.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-christmas.jpg",
       "enable": true,
     },
     {
-      "name": "Tết Nguyên Đán 2027",
+      "name": "Tết Nguyên Đán",
       "startDate": "01-02",
       "endDate": "10-02",
-      "backgroundUrl": "https://raw.githubusercontent.com///main/assets/background/bg-tet.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-tet.jpg",
       "enable": true,
     }
   ]

@@ -5,7 +5,7 @@
     {
       "name": "Trung thu",
       "startDate": "24-09",
-      "endDate": "30-09",
+      "endDate": "25-09",
       "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-trungthu.jpg",
       "enable": true,
     },
@@ -28,6 +28,13 @@
       "startDate": "01-02",
       "endDate": "10-02",
       "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-tet.jpg",
+      "enable": true,
+    },
+    {
+      "name": "HPBD",
+      "startDate": "01-10",
+      "endDate": "07-10",
+      "backgroundUrl": "https://raw.githubusercontent.com/DQLok/Zalo-mini-app/main/assets/background/bg-hpbd.jpg",
       "enable": true,
     }
   ]
